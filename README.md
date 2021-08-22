@@ -3,13 +3,13 @@
 <a href="https://www.linkedin.com/in/yerzhan-aktanov-581a7b139/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/@astdev">
+<a href="https://t.me/astdev">
   <img align="left" alt="Telega's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
 <br />
 
-Привет, меня зовут ВАШЕ ИМЯ, я студент. Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
+Привет, меня зовут Ержан, изучаю Git и ещё несколько интересных технологий.
 
 <br />
 
